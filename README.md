@@ -1,3 +1,3 @@
 # carWebsite
 
-This is a follow along code from CodeAndCreate.
+A simple website to showcase cars.
